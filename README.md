@@ -1,4 +1,4 @@
-## timeseriesforcastingproject
+## TIme Series Forcasting
 
 ## Objective
 
