@@ -1,4 +1,4 @@
-## TIme Series Forcasting
+## Time Series Forcasting
 
 ## Objective
 
