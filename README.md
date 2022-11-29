@@ -24,4 +24,4 @@ The RMSE estimates the deviation of the actual y-values from the regression line
 
 ## Result
 
-Final RMSE = 15.375
+Final RMSE = 13.256
